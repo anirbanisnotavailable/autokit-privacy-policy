@@ -1,3 +1,42 @@
+---
+layout: default
+title: Terms of Use
+---
+
+<style>
+body {
+  font-family: 'Segoe UI', Roboto, -apple-system, BlinkMacSystemFont, sans-serif;
+  max-width: 850px;
+  margin: 40px auto;
+  padding: 20px;
+  line-height: 1.7;
+  font-size: 17px;
+  color: #2c2c2c;
+}
+
+h1, h2, h3 {
+  color: #1a73e8;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+ul {
+  margin-left: 20px;
+}
+</style>
+
+
 TERMS OF USE FOR AUTOKIT
 
 Last updated: February 16, 2026
