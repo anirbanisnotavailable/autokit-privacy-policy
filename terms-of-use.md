@@ -1,144 +1,75 @@
----
-layout: default
-title: Terms of Use
----
+# Terms of Use — AutoKit
 
-<style>
-body {
-  font-family: 'Segoe UI', Roboto, -apple-system, BlinkMacSystemFont, sans-serif;
-  max-width: 850px;
-  margin: 40px auto;
-  padding: 20px;
-  line-height: 1.7;
-  font-size: 17px;
-  color: #2c2c2c;
-}
+**Last Updated:** February 16, 2026
 
-h1, h2, h3 {
-  color: #1a73e8;
-}
-
-h1 {
-  font-size: 32px;
-  margin-bottom: 20px;
-}
-
-h2 {
-  margin-top: 30px;
-}
-
-p {
-  margin-bottom: 15px;
-}
-
-ul {
-  margin-left: 20px;
-}
-</style>
-
-
-TERMS OF USE FOR AUTOKIT
-
-Last updated: February 16, 2026
-
-Welcome to AutoKit (“App”, “we”, “our”, “us”). By downloading, installing, or using AutoKit, you agree to these Terms of Use.
+By downloading, installing, or using AutoKit ("App", "we", "our", "us"), you agree to these Terms of Use.
 
 If you do not agree, please do not use the App.
 
-1. Use of the App
+---
+
+## 1. Use of the App
 
 AutoKit is a vehicle management application designed to help users track fuel usage, service reminders, mileage, trip data, and related vehicle information.
 
 You agree to use the App only for lawful purposes.
 
-2. Account Registration
+---
+
+## 2. Account Registration
 
 To access certain features, you may be required to create an account using email/password or Google sign-in.
 
 You are responsible for:
 
-Maintaining confidentiality of your account
-
-All activities under your account
+- Maintaining confidentiality of your account
+- All activities under your account
 
 We reserve the right to suspend accounts that violate these terms.
 
-3. Beta & Experimental Features
+---
+
+## 3. Beta & Experimental Features
 
 AutoKit may include features that are experimental or in beta stage, including but not limited to emergency or crash-related tools.
 
 These features:
 
-May not function perfectly
+- May not function perfectly
+- Should not be relied upon as a sole emergency solution
+- Are provided "as is" without guarantees
 
-Should not be relied upon as a sole emergency solution
+---
 
-Are provided “as is” without guarantees
+## 4. Limitation of Liability
 
-Users are responsible for verifying emergency procedures independently.
-
-4. No Professional Advice
-
-AutoKit provides informational tools and calculators.
-
-It does not provide:
-
-Mechanical advice
-
-Financial advice
-
-Legal advice
-
-Emergency services
-
-Always consult professionals where appropriate.
-
-5. Limitation of Liability
-
-AutoKit is provided “as is” and “as available.”
-
-We are not liable for:
-
-Data loss
-
-Inaccurate calculations
-
-Missed reminders
-
-Service delays
-
-Any damages arising from use of the App
-
-Use the App at your own discretion.
-
-6. Advertisements
-
-The App may display third-party advertisements through Google AdMob.
+AutoKit is provided "as is" and "as available" without warranties of any kind.
 
 We are not responsible for:
 
-Content of third-party ads
+- Data loss
+- Service interruptions
+- Inaccurate calculations or estimations
+- Any damages arising from the use of emergency or crash-detection features
 
-Products or services advertised
+Users are responsible for verifying critical information independently.
 
-7. Data & Privacy
+---
 
-Your use of the App is also governed by our Privacy Policy:
+## 5. Advertisements
 
-[ https://anirbanisnotavailable.github.io/autokit-privacy-policy/ ]
+AutoKit may display advertisements via Google AdMob. We are not responsible for the content of third-party advertisements.
 
-8. Modifications
+---
 
-We may update these Terms at any time.
+## 6. Changes to Terms
 
-Continued use of the App after changes constitutes acceptance of updated Terms.
+We may update these Terms from time to time. Continued use of the App constitutes acceptance of the updated Terms.
 
-9. Termination
+---
 
-We may suspend or terminate access if users violate these Terms.
+## 7. Contact
 
-10. Contact
+For questions regarding these Terms, contact:
 
-For questions regarding these Terms:
-
-Email: Anirbanmandal987@gmail.com
+**Email:** anirbanmandal987@gmail.com
